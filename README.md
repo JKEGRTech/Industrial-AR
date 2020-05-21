@@ -1,7 +1,7 @@
 # Industrial-AR
 
 # --Basic Information--
-+ Overlay digital information ontop of the real world enviroment. 
++ Overlay digital information on top of the real world environment. 
 
 + Forcus on industrial Levels
 
