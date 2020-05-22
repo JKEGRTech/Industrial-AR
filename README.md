@@ -1,4 +1,4 @@
-# Industrial-AR
+# Industrial-AR\VR
 
 # --Basic Information--
 + Overlay digital information on top of the real world environment. 
@@ -6,6 +6,8 @@
 + Forcus on industrial Levels
 
 + Display information on marker
+
++ Show Instruction to operaters
 
 
 # -- HOW --
